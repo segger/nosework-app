@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Nosework App</string>
+    <string name="title_protocol">Protokoll</string>
+    <string name="title_result">Resultat</string>
+    <string name="title_admin">Admin</string>
+    <string name="input_hint_event_time">Tid</string>
+    <string name="input_hint_points">Poäng</string>
+    <string name="input_hint_sse">SSE</string>
+    <string name="input_hint_error_points">Felpoäng</string>
+    <string name="input_hint_comment">Kommentar</string>
+    <string name="protocol_submit">Spara</string>
+</resources>
